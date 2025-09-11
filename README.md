@@ -25,5 +25,5 @@ bundle install
 ```bash
 bundle exec jekyll serve
 ```
-This will start the local server. Open this URL http://localhost:4000
+This will start the local server. Open this URL http://localhost:4000 
 
