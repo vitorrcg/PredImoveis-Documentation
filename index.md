@@ -12,4 +12,6 @@ The goal is to help brokers, real estate consultants, and urban managers anticip
 
 <image src="../docs/images/index.png">
 
----
+<footer style="text-align: center; font-size: 0.9em; margin-top: 4em;">
+    Made with ❤️  2025
+</footer>
