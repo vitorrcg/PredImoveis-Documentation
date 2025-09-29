@@ -1,6 +1,6 @@
 # README
 
-This is the Regional Property Price Forecaster documentation
+This is the Regional Real Estate Price Predictor documentation
 
 ---
 To execute this project
