@@ -30,7 +30,7 @@ preditor_precos_imobiliarios/
 ├── modelos_sarima.joblib  # Pre-trained SARIMA models
 │
 ├── LICENSE                # MIT License of the project
-├── README.md # Main documentation (this file)
+├── README.md              # Main documentation (this file)
 └── requirements.txt       # Project dependencies (pip)
 
 
