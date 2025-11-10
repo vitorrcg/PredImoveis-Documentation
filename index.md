@@ -7,9 +7,16 @@ nav_order: 1
 
 <h1><strong> Welcome to the Regional Real Estate Price Predictor! </strong></h1>
 
-PredImoveis is an innovative project that leverages Big Data and Machine Learning to predict real estate appreciation or depreciation across the Northeast region of Brazil. Developed as part of academic disciplines involving Big Data, Cloud Computing, Information Security, Software Quality, and Artificial Intelligence, the system aims to support real estate professionals, consultants, and urban planners in analyzing and forecasting market trends.
-
-Through a secure and interactive web interface, PredImoveis integrates comprehensive datasets from multiple Northeastern capitals and applies time series analysis and predictive modeling techniques to deliver actionable insights. The goal is to foster data-driven and transparent decision-making in the regional real estate market, empowering professionals to anticipate changes and strategize effectively.
+<h3>📖 Project Description</h3>
+The Regional Real Estate Price Predictor is a system for analyzing and forecasting real estate values in the Northeast region of Brazil.
+Created as part of a Big Data course, the project aims to support real estate agents, consultants, and urban managers in decision-making, providing clear insights into trends of property appreciation and depreciation.<br>
+💡 The application combines data science, predictive modeling (SARIMA), and interactive visualization via Streamlit, making analysis accessible and intuitive even for non-technical users.
+<br>
+<h3>✨ Key Features </h3>
+📊 Interactive Dashboard: Dynamic visualizations with Plotly, including line charts, bar charts, boxplots, and pie charts, showing trends and descriptive statistics of prices by city and market type.
+<br>
+🧠 Predictive Modeling (SARIMA): Trained models stored in joblib that estimate future values based on historical time series.<br>
+🧾 Automatic Reports (PDF): Generation of analytical reports with descriptive text, automatic explanations, and key KPIs.
 
 <image src="../docs/images/index.png">
 
